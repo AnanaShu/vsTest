@@ -7,7 +7,7 @@ modalHide.onclick = hide;
 
 function show() {
     modal.style.display = "block";
-    modal.stayle.borderRadius = "20px";
+    modal.style.borderRadius = "20px";
     modal.style.borderWidth = "50px";
 }
 
